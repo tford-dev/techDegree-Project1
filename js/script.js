@@ -111,11 +111,11 @@ const printQuote = () =>{
 
 //function to automatically change background color and quote in DOM
 const autoGen = () => {
-    setInterval(function(){printQuote(quotes)}, 5000);
+    setInterval(function(){printQuote()}, 5000);
 }
 
 //Calling functions so that a quote generates when the page is loaded
-printQuote(quotes);
+printQuote();
 autoGen();
 
 /***
