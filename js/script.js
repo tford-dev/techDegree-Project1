@@ -17,55 +17,55 @@ const html = document.querySelector(".quote-box");
 //Below is the array of nested objects that are the quotes
 const quotes = [
     {
-        quote: '"My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had — every day I’m learning something new."',
-        source:"-Richard Branson, founder Virgin Group",
+        quote: 'My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had — every day I’m learning something new.',
+        source:"Richard Branson, founder Virgin Group",
 
     },
     {
-        quote:'"Every time you state what you want or believe, you’re the first to hear it. It’s a message to both you and others about what you think is possible. Don’t put a ceiling on yourself."',
-        source:"– Oprah Winfrey, media proprietor",
+        quote:'Every time you state what you want or believe, you’re the first to hear it. It’s a message to both you and others about what you think is possible. Don’t put a ceiling on yourself.',
+        source:"Oprah Winfrey, media proprietor",
     },
     {
-        quote:'"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."',
+        quote:'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.',
         source:"Steve Jobs, Co-founder, CEO, Chairman Apple Inc.",
     },
     {
-        quote:'"I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying."',
-        source:"-Jeff Bezos, founder and CEO Amazon",
+        quote:'I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not trying."',
+        source:"Jeff Bezos, founder and CEO Amazon",
     },
     {
-        quote:"“Whether you think you can, or think you can’t — you’re right.”",
-        source:"– Henry Ford, Founder Ford Motor Company",
+        quote:"Whether you think you can, or think you can’t — you’re right.”",
+        source:"Henry Ford, Founder Ford Motor Company",
     },
     {
-        quote:'"Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."',
-        source:"– Mary Kay Ash, Founder Mary Kay Cosmetics",
+        quote:'Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."',
+        source:"Mary Kay Ash, Founder Mary Kay Cosmetics",
     },
     {
-        quote:'"You don’t learn to walk by following rules. You learn by doing and falling over."',
-        source:"– Richard Branson, founder Virgin Group",
+        quote:'You don’t learn to walk by following rules. You learn by doing and falling over.',
+        source:"Richard Branson, founder Virgin Group",
     },
     {
-        quote:'"When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue."',
-        source:"-Josh James, co-founder and CEO Omniture, founder and CEO Domo",
+        quote:'When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue.',
+        source:"Josh James, co-founder and CEO Omniture, founder and CEO Domo",
     },
     {
-        quote:'"It’s not about ideas. It’s about making ideas happen."',
-        source:"– Scott Belsky, co-founder Behance",
+        quote:'It’s not about ideas. It’s about making ideas happen.',
+        source:"Scott Belsky, co-founder Behance",
     },
     {
-        quote:'"Entrepreneur is someone who has a vision for something and a want to create."',
-        source:"– David Karp, founder and CEO Tumblr",
+        quote:'Entrepreneur is someone who has a vision for something and a want to create.',
+        source:"David Karp, founder and CEO Tumblr",
     },
     {
-        quote: '"Live simply, love generously, care deeply, speak kindly, leave the rest to God."',
-        source: "― Ronald Reagan",
+        quote: 'Live simply, love generously, care deeply, speak kindly, leave the rest to God.',
+        source: "Ronald Reagan",
         year: 1982,
         citation: "https://www.lifehack.org/articles/productivity/55-inspiring-quotes-from-presidents-that-will-change-your-life.html"
     },
     {
-        quote: '“Never question another man’s motive. His wisdom, yes, but not his motives.”',
-        source: "― Dwight D. Eisenhower",
+        quote: 'Never question another man’s motive. His wisdom, yes, but not his motives.',
+        source: "Dwight D. Eisenhower",
         year: 1954,
         citation: "https://www.lifehack.org/articles/productivity/55-inspiring-quotes-from-presidents-that-will-change-your-life.html"
     },
